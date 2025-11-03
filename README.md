@@ -14,3 +14,15 @@ Paste the downloaded folder into your GameData folder like so
 > Kerbal Space Program\GameData\Parallax_MaskKSC\PluginData\mask_ksc.dds
 
 To create your own mask land on the VAB, in the center of the Helipads, zoom all the way in using Alt + Scroll, then zoom out using just scroll until you see the whole KSC. Create a screenshot. Paint the mask black on white background. Flip the mask vertically (mirror not rotate). Save as .dds file (DXT1 with mipmaps on). Exporting to dds can be done with for example Krita + DDS Export Python Plugin Script 
+
+# Dependencies
+
+- Parallax-Continued obviously
+
+## Optional
+
+For a plug and play solution your KSC should have the same size as mine. I provide my Sigma settings file seperately.
+
+- [KSCEnhanced}(https://forum.kerbalspaceprogram.com/topic/225356-ksc-enhanced/)
+- [SigmaDimensions](https://github.com/Sigma88/Sigma-Dimensions) using my 2.7x settings.cfg
+- [Sigma Replacements](https://github.com/Sigma88/Sigma-Replacements)
