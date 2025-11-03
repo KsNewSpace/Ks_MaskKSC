@@ -18,3 +18,7 @@ Add the provided mod directory to your GameData folder.
 > Kerbal Space Program\GameData\Parallax_MaskKSC\PluginData\mask_ksc.dds
 
 To create your own land on the VAB, in the center of the Helipads, zoom all the way in using Alt + Scroll, then zoom out using just scroll until you see the whole KSC. Create a screenshot. Paint the mask black on white background. Flip the mask vertically (mirror not rotate). Save as .dds file (DXT1 with mipmaps on). Exporting to dds can be done with for example Krita + DDS Export Python Plugin Script 
+
+# TODO
+
+Add a custom config file so that the existing one does not have to be changed. (The proper way)
