@@ -17,4 +17,4 @@ To create your own mask land on the VAB, in the center of the Helipads, zoom all
 
 # Known Bug
 
-The overwriteing of the config does not work properly and Parallax complains ingame about.
+The overwriting of the config does not work properly and Parallax complains ingame about. It defaults back to the Parallax config / mask
