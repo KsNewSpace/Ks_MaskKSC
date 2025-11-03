@@ -17,7 +17,7 @@ To create your own mask land on the VAB, in the center of the Helipads, zoom all
 
 # Dependencies
 
-- Parallax-Continued obviously
+- [Parallax-Continued](https://github.com/Gameslinx/Parallax-Continued) obviously
 
 ## Optional
 
