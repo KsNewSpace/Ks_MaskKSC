@@ -24,3 +24,4 @@ To create your own land on the VAB, in the center of the Helipads, zoom all the 
 # TODO
 
 Add a custom config file so that the existing one does not need to be changed. (The proper way)
+Check the bugged branch for my latest attempt.
