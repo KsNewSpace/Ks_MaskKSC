@@ -13,7 +13,7 @@ You can also replace the "MapDecalVertexRemoveScatter" section. That's all we ne
 
 ## Step 2
 
-Add the provided mod directory to our GameData folder. 
+Add the provided mod directory to your GameData folder. 
 
 > Kerbal Space Program\GameData\Parallax_MaskKSC\PluginData\mask_ksc.dds
 
