@@ -1,27 +1,16 @@
-# Parallax_MaskKSC (hacky)
-Simple mod to mask out the Kerbal Space Center from Parallax scatters using a custom black and white mask. This mod as is, is adapted to a 2.7x size "KSCEnhanced". You will have to mod it to fit it to your needs. For troubleshooting you can enable red / green debug colors in the config. 
+# Parallax_MaskKSC
+Simple mod to mask out the Kerbal Space Center from Parallax scatters using a custom black and white mask. This mod as is, is adapted to a 2.7x size "KSCEnhanced" (Using a simple SigmaDomensions config tweak). You will have to mod it to fit it to your needs. For troubleshooting you can enable red / green debug colors in the config. 
 
 Derived from the [Official Tutorial](https://github.com/Gameslinx/Parallax-Continued/wiki/Scatters-%E2%80%90-Stopping-Scatters-from-Growing-Inside-Buildings) for the ~~lazy~~ efficient people. ;P
 
 # Installation
 
-## Step 1
+## Copy Files
 
-Backup and replace following file with the one provided
+Paste the downloaded folder into your GameData folder like so
 
-> Kerbal Space Program\GameData\Parallax_StockTerrainTextures\_Configs\StockPlanetAdjustments.cfg
-
-You can also replace the "MapDecalVertexRemoveScatter" section. That's all we need here. Just in case the rest of the file is different for you.
-
-## Step 2
-
-Add the provided mod directory to your GameData folder. 
+> Kerbal Space Program\GameData\Parallax_MaskKSC\mask_ksc_MM.cfg
 
 > Kerbal Space Program\GameData\Parallax_MaskKSC\PluginData\mask_ksc.dds
 
-To create your own land on the VAB, in the center of the Helipads, zoom all the way in using Alt + Scroll, then zoom out using just scroll until you see the whole KSC. Create a screenshot. Paint the mask black on white background. Flip the mask vertically (mirror not rotate). Save as .dds file (DXT1 with mipmaps on). Exporting to dds can be done with for example Krita + DDS Export Python Plugin Script 
-
-# TODO
-
-Add a custom config file so that the existing one does not need to be changed. (The proper way)
-Check the bugged branch for my latest attempt.
+To create your own mask land on the VAB, in the center of the Helipads, zoom all the way in using Alt + Scroll, then zoom out using just scroll until you see the whole KSC. Create a screenshot. Paint the mask black on white background. Flip the mask vertically (mirror not rotate). Save as .dds file (DXT1 with mipmaps on). Exporting to dds can be done with for example Krita + DDS Export Python Plugin Script 
