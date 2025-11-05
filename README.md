@@ -33,7 +33,7 @@ For a true plug and play solution your KSC should have the same size as mine (2.
 
 - I have to tinker with Kronometer or other settings to make the daytime make a little more sense. It should be 12 hours but it isn't?
 
-# Modlist
+# My Mod List
 
 Check every mod for dependencies (I will add them later here too)
 
@@ -51,7 +51,7 @@ Check every mod for dependencies (I will add them later here too)
 - [VAB Organizer](https://github.com/post-kerbin-mining-corporation/VABOrganizer) (Organizes parts and gives them colored icons based on size similar to KSP2)
 - to be continued...
 
-## Dependencies
+## Mod Dependencies
 
 - TODO
   
