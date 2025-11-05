@@ -37,6 +37,8 @@ For a true plug and play solution your KSC should have the same size as mine (2.
 
 Check every mod for dependencies (I will add them later here too)
 
+## Visual (mostly)
+
 - [Restock & Restock+](https://github.com/PorktoberRevolution/ReStocked) (Complete revamped of the stock parts plus stock-ish parts that Squad forgot)
 - [RestockPBR](https://github.com/PorktoberRevolution/ReStockPBR) (New PBR materials + re-color for Restock parts)
 - [Volumetric Cloud v3](https://www.patreon.com/posts/true-volumetric-87982960) (I use v5 but that one is paywalled)
@@ -45,8 +47,11 @@ Check every mod for dependencies (I will add them later here too)
 - [Waterfall](https://github.com/post-kerbin-mining-corporation/Waterfall) (Framework! All new engine effects that expand with atmospheric pressure)
   - [Restock Waterfall](https://spacedock.info/mod/3149/Restock%20Waterfall%20Expansion) (Waterfall Configs for Restock, contains its dependencies)
   - [RSMP](https://github.com/dangaffa/RSMP) (Configs for SRBs)
-- [VAB Organizer](https://github.com/post-kerbin-mining-corporation/VABOrganizer) (Organizes parts and gives them colored icons based on size similar to KSP2)
 - [TUFX](https://github.com/KSPModStewards/TUFX/) (Post processing effects for KSP to make it look nicer)
+
+## Quality of Life
+
+- [VAB Organizer](https://github.com/post-kerbin-mining-corporation/VABOrganizer) (Organizes parts and gives them colored icons based on size similar to KSP2)
 - to be continued...
 
 ## Mod Dependencies
