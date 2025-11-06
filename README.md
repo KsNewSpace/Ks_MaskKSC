@@ -1,4 +1,4 @@
-# Parallax Mask KSC + 2.7x Resize
+# Parallax Mask KSC + 2.7x Resize (optional)
 
 ![image](screenshots/header.png)
 
