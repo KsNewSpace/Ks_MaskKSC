@@ -16,9 +16,10 @@ My goal is to bring KSP to 2025 without changing the core gameplay loop too much
 
 ### Official Channels
 
-- Tip Jar: [KsNewSpace.shop](https://ksnewspace.shop/)
+- Tip Jar: [KsNewSpace.shop](https://ksnewspace.shop/) <3
 - YouTube: [@KsNewSpace](https://www.youtube.com/@KsNewSpace) (KSP, Coding, Space Stuff)
 - Twi..X: [@KsNewSpace](https://x.com/KsNewSpace) (I'm not a Nazi)
+- Twitch: [KsNewSpace](https://www.twitch.tv/ksnewspace) (placeholder)
 - Business Contact: KsN■wSp■ce@outl■ok.com (replace ■ with sensical vowels)
   - Mails with attachments are sorted out. I will forward your mail to the authorities if it contains illegal or disturbing things.
 
