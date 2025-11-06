@@ -49,6 +49,7 @@ For a true plug and play solution your KSC should have the same size as mine (2.
 
 ## Known Issues
 
+- Stock fairings can appear in weird colors in the VAB (Fine outside of it)
 - I have to tinker with Kronometer or other settings to make the daytime make a little more sense. It should be 12 hours but it isn't?
 
 My Complete Mod List
