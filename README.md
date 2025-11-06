@@ -112,3 +112,11 @@ To be continued!
 
 Photo Album
 ===========
+![image](ksc_01.png)
+![image](fighter_jet_01.png)
+![image](shiny_01.png)
+![image](black_hawk_01.png)
+![image](black_hawk_02.png)
+![image](soyuz6x.png)
+![image](sph_01.png)
+![image](orbit_01.png)
