@@ -10,9 +10,9 @@ Simple mod to mask out the Kerbal Space Center from Parallax scatters using a cu
 
 Derived from the [Official Tutorial](https://github.com/Gameslinx/Parallax-Continued/wiki/Scatters-%E2%80%90-Stopping-Scatters-from-Growing-Inside-Buildings) for the ~~lazy~~ efficient people. ;P
 
-## Installation
+# Installation
 
-### Copy Files
+## Copy Files
 
 Paste the downloaded folder into your GameData folder like so
 
@@ -22,11 +22,11 @@ Paste the downloaded folder into your GameData folder like so
 
 To create your own mask land on the VAB, in the center of the Helipads, zoom all the way in using Alt + Scroll, then zoom out using just scroll until you see the whole KSC. Create a screenshot. Paint the mask black on white background. Flip the mask vertically (mirror not rotate). Save as .dds file (DXT1 with mipmaps on). Exporting to dds can be done with for example [Krita](https://krita.org/) + [DDS Export](https://github.com/esuriddick/Programming/tree/main/Python/Krita/DDS_File_Exporter) Python Plugin Script 
 
-### Dependencies
+## Dependencies
 
 - [Parallax-Continued](https://github.com/Gameslinx/Parallax-Continued) obviously
 
-### Optional
+## Optional
 
 For a true plug and play solution your KSC should have the same size as mine (2.7x). I provide my Sigma and Parallax settings files separately.
 
@@ -34,11 +34,13 @@ For a true plug and play solution your KSC should have the same size as mine (2.
 - [SigmaDimensions](https://github.com/Sigma88/Sigma-Dimensions) using my 2.7x settings.cfg
 - [Sigma Replacements](https://github.com/Sigma88/Sigma-Replacements)
 
-## TODO
+# TODO
 
 - I have to tinker with Kronometer or other settings to make the daytime make a little more sense. It should be 12 hours but it isn't?
 
-# My Complete Mod List
+My Complete Mod List
+====================
+***Please check every mod for dependencies in case I forget to list them***
 
 ![image](screenshots/bonkers.jpg)
 
@@ -46,7 +48,7 @@ For a true plug and play solution your KSC should have the same size as mine (2.
 
 Please check every mod for dependencies in case I forget to list them
 
-## Audio - Visual (mostly)
+# Audio - Visual (mostly)
 
 - [Restock & Restock+](https://github.com/PorktoberRevolution/ReStocked) (Complete revamp of the stock parts plus stock-ish parts that Squad forgot)
   - [RestockPBR](https://github.com/PorktoberRevolution/ReStockPBR) (New PBR materials + re-color for Restock parts)
@@ -64,7 +66,7 @@ Please check every mod for dependencies in case I forget to list them
   - [RSEDefault](https://github.com/KSPModStewards/RocketSoundEnhancementDefault) (Default configs for RSE. Also adds sonic booms, wheel squeek, propeller sounds and more)
 - ...
 
-## Functional
+# Functional
 
 - [Persistant Rotation](https://github.com/linuxgurugamer/PersistentRotation) (allows crafts to maintain their rotation / aim during time warp)
 - [Kerbal Konstructs](https://github.com/KSP-RO/Kerbal-Konstructs/) (Allows you to place structures on planets. For example new runways and buildings)
@@ -76,14 +78,14 @@ Please check every mod for dependencies in case I forget to list them
 - [kRPC](https://github.com/krpc/krpc) (Allows you to start a server within KSP to connect and play KSP from the outside using code. [Documentation](https://krpc.github.io/krpc/))
 - ...
 
-## Quality of Life
+# Quality of Life
 
 - [VAB Organizer](https://github.com/post-kerbin-mining-corporation/VABOrganizer) (Organizes parts and gives them colored icons based on size similar to KSP2)
 - [ClickthroughBlocker](https://github.com/linuxgurugamer/ClickThroughBlocker) (Annoyed by clicking on a popup window but suddenly you grab a part of your rocket...?)
 - [Community Fixes](https://github.com/KSPModdingLibs/KSPCommunityFixes) (A big patch for KSP that fixes a lot of bugs. Most notably improved loading times.)
 - ...
 
-## Mod Dependencies
+# Mod Dependencies
 
 - [Module Manager](https://github.com/KSP-ModularManagement/ModuleManager) (Loads mods into KSP in a somewhat ordered manner using configs - something_MM.cfg)
 - [Omega Structures](https://spacedock.info/mod/2061/Omega%27s%20Stockalike%20Structures:%20No%20Textures%20Required) (KSC parts that can be used by Kerbal Konstructs)
