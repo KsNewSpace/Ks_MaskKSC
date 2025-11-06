@@ -55,6 +55,7 @@ For a true plug and play solution your KSC should have the same size as mine (2.
 
 - Stock fairings can appear in weird colors in the VAB (Fine outside of it)
 - I have to tinker with Kronometer or other settings to make the daytime make a little more sense. It should be 12 hours but it isn't?
+- Using the MAIN TUFX profile stuff turns transparent in the VAB / SPH. THat's the HDR option. I disabled it in the VAB_SPH config.
 
 My Complete Mod List
 ====================
