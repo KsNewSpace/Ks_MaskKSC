@@ -4,6 +4,8 @@ Parallax Mask KSC + 2.7x Resize *(optional)*
 
 ![image](screenshots/header.png)
 
+*this is how a correct mask should look like in debug colors (see confog file to enable it)*
+
 Simple mod to mask out the Kerbal Space Center from Parallax scatters using a custom black and white mask. This mod as is, is adapted to a 2.7x size "KSCEnhanced" (Using a simple SigmaDimensions config tweak). You will have to mod it to fit it to your needs. For troubleshooting you can enable red / green debug colors in the config. 
 
 Derived from the [Official Tutorial](https://github.com/Gameslinx/Parallax-Continued/wiki/Scatters-%E2%80%90-Stopping-Scatters-from-Growing-Inside-Buildings) for the ~~lazy~~ efficient people. ;P
