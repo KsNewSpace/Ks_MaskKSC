@@ -28,7 +28,7 @@ Paste the downloaded folder into your GameData folder like so
 
 To create your own mask land on the VAB, in the center of the Helipads, zoom all the way in using Alt + Scroll, then zoom out using just scroll until you see the whole KSC. Create a screenshot. Paint the mask black on white background. Flip the mask vertically (mirror not rotate). Save as .dds file (DXT1 with mipmaps on). Exporting to dds can be done with for example [Krita](https://krita.org/) + [DDS Export](https://github.com/esuriddick/Programming/tree/main/Python/Krita/DDS_File_Exporter) Python Plugin Script 
 
-## Dependencies
+## Minimum Dependencies
 
 - [Parallax-Continued](https://github.com/Gameslinx/Parallax-Continued) obviously
 
