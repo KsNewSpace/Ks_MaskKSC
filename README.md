@@ -1,4 +1,5 @@
 # Parallax Mask KSC + 2.7x Resize (optional)
+## for Kerbal Space Program
 
 ![image](screenshots/header.png)
 
