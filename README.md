@@ -16,7 +16,7 @@ My goal is to bring KSP to 2025 without changing the core gameplay loop too much
 
 - YouTube: [@KsNewSpace](https://www.youtube.com/@KsNewSpace) (KSP, Coding, Space Stuff)
 - Twi..X: [@KsNewSpace](https://x.com/KsNewSpace) (I'm not a Nazi)
-- Email: KsN■wSp■ce@outl■ok.com (replace ■ with sensical vowels)
+- Business Contact: KsN■wSp■ce@outl■ok.com (replace ■ with sensical vowels. Mails with attachments are sorted out. I will forward your mail to the authorities if it contains illegal or disturbing things)
 
 # Installation
 
