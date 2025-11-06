@@ -48,19 +48,22 @@ Check every mod for dependencies (I will add them later here too)
   - [Restock Waterfall](https://spacedock.info/mod/3149/Restock%20Waterfall%20Expansion) (Waterfall Configs for Restock, contains its dependencies)
   - [RSMP](https://github.com/dangaffa/RSMP) (Configs for SRBs)
 - [TUFX](https://github.com/KSPModStewards/TUFX/) (Post processing effects for KSP to make it look nicer)
+- ...
 
 ## Functional
 
 - [Persistant Rotation](https://github.com/linuxgurugamer/PersistentRotation) (allows crafts to hold their aim during time warp)
+- ...
 
 ## Quality of Life
 
 - [VAB Organizer](https://github.com/post-kerbin-mining-corporation/VABOrganizer) (Organizes parts and gives them colored icons based on size similar to KSP2)
+- ...
 
 ## Mod Dependencies
 
-to be continued...
+- ...
 
-- TODO
+To be continued!
   
 ![image](modlist.png)
