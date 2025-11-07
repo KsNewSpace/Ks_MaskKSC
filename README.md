@@ -27,7 +27,7 @@ My goal is to bring KSP to 2025 without changing the core gameplay loop too much
 
 ## Download
 
-Github Mirror: [Parallax_MaskKSC/releases](https://github.com/KsNewSpace/Parallax_MaskKSC/releases) (v1.1 latest zip file)
+Github Mirror: [Parallax_MaskKSC/releases](https://github.com/KsNewSpace/Parallax_MaskKSC/releases) (v1.2 latest zip file)
 
 ## Copy Files
 
