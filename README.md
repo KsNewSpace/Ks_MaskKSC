@@ -51,6 +51,8 @@ For a true plug and play solution your KSC should have the same size as mine (2.
 - [SigmaDimensions](https://github.com/Sigma88/Sigma-Dimensions) using my 2.7x settings.cfg
 - [Sigma Replacements](https://github.com/Sigma88/Sigma-Replacements)
 
+Copy the content of the optional GameData folder into your GameData folder.
+
 ## Known Issues
 
 - Stock fairings can appear in weird colors in the VAB (Fine outside of it)
