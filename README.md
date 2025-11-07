@@ -51,7 +51,7 @@ For a true plug and play solution your KSC should have the same size as mine (2.
 - [SigmaDimensions](https://github.com/Sigma88/Sigma-Dimensions) using my 2.7x settings.cfg
 - [Sigma Replacements](https://github.com/Sigma88/Sigma-Replacements)
 
-Copy the content of the optional GameData folder into your GameData folder.
+Copy the content of the optional GameData folder into your GameData folder. Make backups of the settings files this will overwrite if you want to keep them. (Working on a better way than this)
 
 ## Known Issues
 
