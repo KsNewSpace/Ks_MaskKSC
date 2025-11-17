@@ -1,4 +1,4 @@
-Parallax Mask KSC + 2.7x Resize *(optional)*
+K's Mask KSC for ParallaxContinued Scatter + 2.7x Resize *(optional)*
 ==========================================
 ***for Kerbal Space Program*** *by Lukas K. aka KsNewSpace*
 
